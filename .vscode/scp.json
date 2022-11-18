@@ -1,0 +1,8 @@
+{
+    "host": "togprod",
+    "port": 22,
+    "user": "togroot",
+    "ignore":[".git",".vscode"],
+    "remotePath": "/home/togroot/S7",
+    "uploadOnSave": true
+}
